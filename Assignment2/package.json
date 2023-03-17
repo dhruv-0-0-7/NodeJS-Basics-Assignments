@@ -1,0 +1,11 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": " NodeJS Project test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dhruv Prajapati",
+  "license": "ISC"
+}
