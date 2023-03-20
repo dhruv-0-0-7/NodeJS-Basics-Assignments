@@ -1,0 +1,15 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "UV_THREADPOOL_SIZE=5 node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}

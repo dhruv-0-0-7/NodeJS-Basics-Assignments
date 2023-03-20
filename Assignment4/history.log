@@ -1,0 +1,2 @@
+console.log('These lines of code will be stored in "history.log" file as a History of REPL')
+console.log('Hello! This is REPL');
