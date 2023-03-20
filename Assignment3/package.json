@@ -1,0 +1,38 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "Node.js Project - Assignment3",
+  "engineStrict": true,
+  "engines": {
+    "node": "18.15.0",
+    "npm": "9.5.0"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "rest-apis"
+  ],
+  "author": {
+    "name": "Dhruv Prajapati",
+    "email": "dhruv.prajapati@simformsolutions.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhruv-0-0-7/NodeJS-Basics-Assignments"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "express": "4.18.2",
+    "jsonwebtoken": "9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21",
+    "prisma": "^4.11.0"
+  }
+}
