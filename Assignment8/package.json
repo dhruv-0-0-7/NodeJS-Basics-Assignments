@@ -1,0 +1,23 @@
+{
+  "name": "assignment8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:hbs": "node src/server.js hbs",
+    "dev:hbs": "node --watch src/server.js hbs",
+    "start:ejs": "node src/server.js ejs",
+    "dev:ejs": "node --watch src/server.js ejs",
+    "start:pug": "node src/server.js pug",
+    "dev:pug": "node --watch src/server.js pug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "pug": "^3.0.2"
+  }
+}
