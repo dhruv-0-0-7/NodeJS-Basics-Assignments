@@ -1,0 +1,8 @@
+{
+    "greetings": {
+        "morning": "Buongiorno",
+        "noon": "Buon pomeriggio",
+        "evening": "Buonasera",
+        "night": "Buona notte"
+    }
+}
